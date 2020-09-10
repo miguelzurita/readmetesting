@@ -13,7 +13,7 @@ This is a simple website resume showing my skills in html layout. It's fully res
 </h4>
 
 
-### Tech
+### Technologies Used
   - HTML5 & CSS3
   - Bootstrap 4.5
   - Jquery
