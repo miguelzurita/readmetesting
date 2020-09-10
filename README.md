@@ -9,7 +9,8 @@ This is a simple website resume showing my skills in html layout. It's fully res
 
 ## Live Preview
 
-<p><a href="https://raw.githubusercontent.com/miguelzurita/readmetesting/master/images/bootstrap-logo.png"></a></p>
+<p><a href="https://miguelzurita.com/" target="_blank"> <img src="https://raw.githubusercontent.com/miguelzurita/readmetesting/master/images/bootstrap-logo.png"></a></p>
+
 
 ### Tech
   - HTML/CSS
