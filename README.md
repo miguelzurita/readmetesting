@@ -14,9 +14,11 @@ This is a simple website resume showing my skills in html layout. It's fully res
 
 
 ### Tech
-  - HTML/CSS
-  - Jquery
+  - HTML5 & CSS3
   - Bootstrap 4.5
+  - Jquery
+  - Font Awesome
+  - Google Fonts 
 
 ### Author
 [Miguel Zurita](https://www.linkedin.com/in/url/)
