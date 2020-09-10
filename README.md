@@ -2,7 +2,9 @@
 
 # CV-PAGES
 
-[![N|Solid](https://raw.githubusercontent.com/miguelzurita/readmetesting/master/images/bootstrap-logo.png)]
+## Live Preview
+
+<p><a href="https://www.sitioweb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/miguelzurita/readmetesting/master/images/bootstrap-logo.png?token=AFCLXAEAMBHX55CWOGQRT4S7LGS5S"></a></p>
 
 
 <h4 align="center">
